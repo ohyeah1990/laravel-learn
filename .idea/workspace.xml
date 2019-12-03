@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+=======
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+>>>>>>> parent of 9823f5d... 忽略文件
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -150,8 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575337876428</updated>
+<<<<<<< HEAD
       <workItem from="1575337878404" duration="1628000" />
       <workItem from="1575351548123" duration="806000" />
+=======
+      <workItem from="1575337878404" duration="1604000" />
+>>>>>>> parent of 9823f5d... 忽略文件
     </task>
     <servers />
   </component>
@@ -163,6 +171,7 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="181" key="#Composer/0.0.1920.1040@0.0.1920.1040" timestamp="1575338195331" />
+<<<<<<< HEAD
     <state x="640" y="249" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575351527587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -171,5 +180,7 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575351616206" />
+=======
+>>>>>>> parent of 9823f5d... 忽略文件
   </component>
 </project>
